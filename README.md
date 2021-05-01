@@ -2,10 +2,10 @@
 
 ## Learning Goals
 
-1. Define a client and server
-2. Explain what an HTTP request is
-3. Explain the nature of request and response
-4. Define a static site vs. a dynamic site
+- Define a client and server
+- Explain what an HTTP request is
+- Explain the nature of request and response
+- Define a static site vs. a dynamic site
 
 ## Introduction
 
